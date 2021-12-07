@@ -14,7 +14,7 @@ export default NextAuth({
   pages: {
     signIn: "/auth/signin",
   },
-
+  If you dont have custom page... style with this...
   theme: {
     logo: "https://links.papareact.com/sq0",
     brandColor: "#F13287",

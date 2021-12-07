@@ -18,7 +18,7 @@ function signIn(providers) {
 }
 
 export async function getServerSideProps() {
-  const providers = await getProviders();
+  const providers = getProviders();
 
   return {
     props: { 
