@@ -26,7 +26,7 @@ function Header() {
           onClick={() => router.push("/")}
         >
           <Image
-            src="https://rebrand.ly/3093ac"
+            src="https://links.papareact.com/ocw"
             alt="Picture of the author"
             layout="fill"
             objectFit="contain"
@@ -38,7 +38,7 @@ function Header() {
           onClick={() => router.push("/")}
         >
           <Image
-            src="https://rebrand.ly/54e13f"
+            src="https://links.papareact.com/jjm"
             alt="Picture of the author"
             layout="fill"
             objectFit="contain"
