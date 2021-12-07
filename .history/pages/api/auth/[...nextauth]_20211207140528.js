@@ -16,7 +16,7 @@ export default NextAuth({
   },
 
   theme: {
-    logo: "https://links.papareact.com/sq0",
+    logo: "https://rebrand.ly/tyt4s6g",
     brandColor: "#F13287",
     colorScheme: "auto",
   },
